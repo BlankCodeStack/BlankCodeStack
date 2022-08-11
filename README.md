@@ -1,4 +1,4 @@
-### Hi there 👋
+### 93년생 독학중인  👋
 
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
