@@ -1,4 +1,5 @@
-### 93년생 독학중인  👋
+### 93년생 독학중인 취준생 👋
+#### 국비지원 교육 풀스텍 8개월 
 
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
