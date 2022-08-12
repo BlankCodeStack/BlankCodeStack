@@ -1,5 +1,8 @@
-### 93년생 독학중인 취준생 👋
-#### 국비지원 교육 풀스텍 8개월 
+# 현재에 멈추지 않고 발전 해나가는 취준생 가발자 입니다.
+## 국비지원 개발자 8개월 수료
+## 스파르타 내배단 웹/앱 수료
+## 패스트 캠퍼스 강의 수강중...
+## 애플코딩 강의 수강중...
 
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
