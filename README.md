@@ -2,11 +2,12 @@
 
 ***
 
-#### 국비지원 개발자 8개월 수료
+#### 국비지원 개발자 6개월 수료
 #### 스파르타 내배단 웹/앱 수료
 #### 패스트 캠퍼스 강의 수강중...
 #### 애플코딩 강의 수강중...
 #### 부스트코스 / 인프런 강의 수강 예정...
+#### 부스트코스 PY4E 강의 수강중...
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
