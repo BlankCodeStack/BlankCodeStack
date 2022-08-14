@@ -8,6 +8,11 @@
 #### 애플코딩 강의 수강중...
 #### 부스트코스 / 인프런 강의 수강 예정...
 #### 부스트코스 PY4E 강의 수강중...
+
+
+아직 좀더 작성중 
+----
+
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
