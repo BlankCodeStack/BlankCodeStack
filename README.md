@@ -12,7 +12,7 @@
 ***
 
 ### 사용 언어
-> HTML / CSS / JavaScript
+> HTML   > CSS  > JavaScript
    
 > React
 <!--
