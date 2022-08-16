@@ -12,8 +12,9 @@
 ***
 
 ### 사용 언어
-> HTML      >  > CSS  > JavaScript
-   
+> HTML
+> CSS
+> JavaScript
 > React
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
