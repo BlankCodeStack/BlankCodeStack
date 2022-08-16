@@ -12,12 +12,9 @@
 ***
 
 ### 사용 언어
-> HTML / CSS / JavaScript / React.js / Node.js / Vue.js / ...
-    
-> 여백 테스트 > 추가 
+> HTML / CSS / JavaScript
    
->   > 들여쓰기 테스트   
-> 중간 >  >하단 >   >   > 밑
+> React
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
