@@ -10,9 +10,7 @@
 ***
 
 ### 사용 언어
-> HTML
-   
-> CSS
+> HTML      >CSS
    
 > JavaScript
    
