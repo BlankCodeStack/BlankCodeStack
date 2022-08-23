@@ -10,18 +10,11 @@
 ***
 
 ### 사용 언어
-> HTML      >CSS
-   
+> HTML
+> CSS
 > JavaScript
-   
-> React
-   
-> Node.js
-   
 > Java
-   
-  
-###현재 이력서 수정중 
+> React
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
