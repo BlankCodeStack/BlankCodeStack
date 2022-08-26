@@ -17,7 +17,7 @@
 > React
 > SAAS
 ***
-현재 이력서 수정중 입니다 .
+현재 이력서 수정중 입니다 ...
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
