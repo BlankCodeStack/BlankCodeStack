@@ -23,6 +23,12 @@
 HTML | CSS | JavaScript | 
 React | Vue.js | Node.js | SAAS
 
+이름 
+나이 
+학력 
+이력 
+
+
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
