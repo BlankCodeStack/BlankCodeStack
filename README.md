@@ -31,7 +31,7 @@ React | Vue.js | Node.js | SAAS
 포트폴리오 & 토이프로젝트
 자기소개
 
-경력?
+경력? 스펙? 조정중 ...
 
 <!--
 **BlankCodeStack/BlankCodeStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
