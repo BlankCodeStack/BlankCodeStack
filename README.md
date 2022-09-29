@@ -20,7 +20,7 @@
 > SAAS
 >
 ***
-현재 이력서 수정중 입니다 ...
+현재 이력서 수정중 입니다 ..
 
 HTML | CSS | JavaScript | 
 React | Vue.js | Node.js | SAAS
