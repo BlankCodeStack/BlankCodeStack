@@ -18,7 +18,10 @@
 > Java
 > React
 > SAAS
->
+> Vue.js
+> Node.js
+> Swift
+> Flutter
 ***
 현재 이력서 수정중 입니다 ..
 
