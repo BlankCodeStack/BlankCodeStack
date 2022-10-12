@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=상상을 현실로%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20render&fontSize=90)
 <h2>호기심이 많은 프론트엔드 취준생 개발자 입니다. 👨‍💻</h2>
 
 #### 국비지원 개발자 6개월 수료
