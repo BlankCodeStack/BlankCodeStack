@@ -8,7 +8,7 @@
 #### 부스트코스 PY4E 강의 수강완료.
 #### 부스트코스 CS 강의 수강중...
 #### 제로베이스 FE 부트캠프 수강중...
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)](https://github.com/BlankCodeStack/github-readme-stats)
 ***
 
 ### 사용 언어
