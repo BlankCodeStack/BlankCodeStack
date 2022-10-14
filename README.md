@@ -24,10 +24,9 @@
       </td>
     </tr>
   </table>
-  <div width=100%>
-    <img align='left'  width=63%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
-    <img align='right' width=36%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
-  <div>
+<img align='left'  width=62%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+<img align='right' width=35%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
+
 <table  align='center' width=100%>
   <tr>
     <td align='left' width='50%'>
