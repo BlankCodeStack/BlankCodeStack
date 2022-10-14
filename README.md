@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Kim&nbsp;Hee&nbsp;Hwan&fontSize=70)
-<h1 align='center'> 생각이 많은 개발자 </h1>
+<h1 align='center'> 배움을 멈추지 않는 개발자 </h1>
 
-  <table align='left' width='90%'>
+  <table align='left' width=600px>
     <tr>
       <td align='left'>
         <h2>김희환</h2>
@@ -20,10 +20,10 @@
       </td>
     </tr>
   </table>
-<img align='left'  width=60%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+<img align='left'  width=60%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
 <img align='right' width=35%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
 
-<table  align='center' width=90%>
+<table  align='center' width=600px>
   <tr>
     <td align='left'>
     <h3>활동</h3>
