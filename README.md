@@ -18,10 +18,6 @@
       <img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <br/>
       <img  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> 
       <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-    </td>
-    <td>
-    </td>
-    <td>
   </tr>
   <tr>
     <td>
