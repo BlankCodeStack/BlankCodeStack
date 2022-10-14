@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=끊임없이 배우는 개발자&fontSize=60">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=끊임없이%20배우는%20개발자&fontSize=70&animation=twinkling" />
 
 <div>
   <img align='right' width=50% src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
