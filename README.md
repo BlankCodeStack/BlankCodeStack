@@ -1,5 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20render&fontSize=90)
-<h2>호기심이 많은 프론트엔드 취준생 개발자 입니다. 👨‍💻</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Kim&nbsp;Hee&nbsp;Hwan&fontSize=70)
+<div align="center">
+<h1>프론트엔드 개발자 취준생 👨‍💻</h1>
+</div>
+
+|  김 희 환 <br/>1993년생 07월 11일<br/>   | Study for Stack<br/> <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img  src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <br/><img  src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /> <img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /><br/>  |
+|:---:|:---:|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlankCodeStack)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8) |
+| 준비중 | 준비중 | 
+| 준비중 | 준비중 | 
+
+
+
+
+
+
 
 #### 국비지원 개발자 6개월 수료
 #### 스파르타 내배단 웹/앱 수료
@@ -9,7 +23,7 @@
 #### 부스트코스 PY4E 강의 수강완료.
 #### 부스트코스 CS 강의 수강중...
 #### 제로베이스 FE 부트캠프 수강중...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)](https://github.com/BlankCodeStack/github-readme-stats)
+
 ***
 
 ### 사용 언어
@@ -24,10 +38,9 @@
 > Swift
 > Flutter
 ***
+</div>
 현재 이력서 수정중 입니다 ..
 
-HTML | CSS | JavaScript | 
-React | Vue.js | Node.js | SAAS
 
 이름 
 나이 
