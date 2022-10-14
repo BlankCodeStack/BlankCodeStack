@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=끊임없이%20배우는%20개발자&fontSize=70&animation=twinkling" />
 
 <div>
-  <img align='right' width=55% heigh=180px src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+  <img align='right' width=55% height=180px src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
   <div align='center'>
     <h2>Profile</h2>
     <p>김희환</p>
@@ -12,7 +12,7 @@
 </div>
 <br/>
 <div>
-  <img align='left' width=50% heigh=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8&layout=compact"/>
+  <img align='left' width=50% height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8&layout=compact"/>
   <div align='center'>   
     <h2>Study for Stack</h2> 
     <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
