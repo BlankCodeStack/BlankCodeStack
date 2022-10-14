@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Kim&nbsp;Hee&nbsp;Hwan&fontSize=70)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=끊임없이 배우는 개발자&fontSize=60">
 
-<h1 align='center'> 배움을 멈추지 않는 개발자 </h1>
 <div>
   <img align='right' width=50% src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
   <div align='center'>
-    <h2>김희환</h2>
+    <h2>Profile</h2>
+    <p>김희환</p>
     <p>1993년생 07월 11일</p>
-    <p>동의대학교 (회계학과) 중퇴</p>
-    <p> 부트캠프 진행중 <p>
+    <p> 동의대학교(회계학과) 3학년 2학기 중퇴<p>
   </div>
 </div>
 <div>
