@@ -2,7 +2,7 @@
 
 <h1 align='center'> 생각이 많은 개발자 </h1>
 
-<table align='center' width=100% height=auto>
+<table align='center' width=100%>
   <tr>
     <td align='center'>
         <h2>김희환</h2>
@@ -19,6 +19,8 @@
       <img  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> 
       <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   </tr>
+</table>
+<table align='center' width=100%>
   <tr>
     <td align='left'>
     <img  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
