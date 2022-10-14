@@ -20,11 +20,11 @@
       <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   </tr>
   <tr>
-    <td>
-    <img align='left' src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=Hee Hwan's GitHub%20Stats"/>
+    <td align='left'>
+    <img  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
     </td>
-    <td>
-    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
+    <td align='right'>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
     </td>
   <tr>
 </table> 
