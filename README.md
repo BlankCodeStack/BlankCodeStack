@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Kim&nbsp;Hee&nbsp;Hwan&fontSize=70)
-
+<div magin=0 padding=0 width=100% height=100%>
 <h1 align='center'> 생각이 많은 개발자 </h1>
 
-<table align='center' width='600px'>
+<table align='center'>
   <tr>
-    <td align='center' width='50%'>
+    <td align='center'>
         <h2>김희환</h2>
         <p>1993년생 07월 11일</p>
     </td>
-    <td align='center' width='50%'>
+    <td align='center'>
       <h2>Study for Stack</h2> 
       <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
       <img  src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
@@ -64,4 +64,4 @@
     </td>
   </tr>
 <table>
-
+</div>
