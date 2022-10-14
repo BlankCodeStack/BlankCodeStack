@@ -11,7 +11,7 @@
 
 
 <img align='left' width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
-<div align='right'>   
+<div align='center'>   
   <h2>Study for Stack</h2> 
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
   <img  src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
