@@ -20,8 +20,8 @@
       </td>
     </tr>
   </table>
-<img align='left'  width=60%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
-<img align='right' width=35%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
+<img align='left'  width=63% margin=0 padding=0   src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+<img align='right' width=36% margin=0 padding=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
 
 <table  align='center' width=600px>
   <tr>
