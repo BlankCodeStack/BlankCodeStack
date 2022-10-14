@@ -1,35 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20Kim&nbsp;Hee&nbsp;Hwan&fontSize=70)
-<div magin=0 padding=0 width=100% height=100%>
 <h1 align='center'> 생각이 많은 개발자 </h1>
 
-<table align='center'>
-  <tr>
-    <td align='center'>
+  <table align='left' width='50%'>
+    <tr>
+      <td align='center'>
         <h2>김희환</h2>
         <p>1993년생 07월 11일</p>
-    </td>
-    <td align='center'>
-      <h2>Study for Stack</h2> 
-      <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
-      <img  src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
-      <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <br/>
-      <img  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> 
-      <img  src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /> 
-      <img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <br/>
-      <img  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> 
-      <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  </tr>
-</table>
-<table align='center' width='100%' height='auto'>
-  <tr>
-    <td align='left'>
-    <img  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
-    </td>
-    <td align='right'>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
-    </td>
-  <tr>
-</table> 
+      </td>
+    </tr>
+  </table>
+  <table align='right' width= '50%'>
+    <tr>
+      <td align='center'>
+        <h2>Study for Stack</h2> 
+        <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
+        <img  src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
+        <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <br/>
+        <img  src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> 
+        <img  src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" /> 
+        <img  src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <br/>
+        <img  src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> 
+        <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+    <img align='left'  width=63%  src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
+    <img align='right' width=36%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8)"/>
 <table  align='center' width=100%>
   <tr>
     <td align='left' width='50%'>
@@ -64,4 +60,3 @@
     </td>
   </tr>
 <table>
-</div>
