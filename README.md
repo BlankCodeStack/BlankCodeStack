@@ -2,7 +2,7 @@
 
 <h1 align='center'> 생각이 많은 개발자 </h1>
 
-<table align='center' width=100%>
+<table align='center' width=100% height=auto>
   <tr>
     <td align='center'>
         <h2>김희환</h2>
@@ -28,7 +28,7 @@
     </td>
   <tr>
 </table> 
-<table width=100%>
+<table  align='center' width=100%>
   <tr>
     <td align='left'>
     <h3>활동</h3>
