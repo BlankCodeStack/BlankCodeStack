@@ -10,7 +10,7 @@
     <p> 동의대학교(회계학과) 3학년 2학기 중퇴<p>
   </div>
 </div>
-<br/>
+<br />
 <div>
   <img align='left' width=50% height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankCodeStack&langs_count=8&layout=compact"/>
   <div align='center'>   
@@ -26,7 +26,8 @@
   </div>
 </div>
 
-
+<br />
+<div>
 <table  align='center' width=100%>
   <tr>
     <td align='left'>
@@ -38,7 +39,6 @@
     <p>패스트캠퍼스 프론트엔드 과정 </p>
     <p>코딩애플 프론트엔드 과정</p>
     <p>제로베이스 프론트엔드 과정 부트캠프 </p>
-<br />
     </td>
     <td align='center'>
     <h3>기간</h3>
@@ -62,3 +62,4 @@
     </td>
   </tr>
 <table>
+</div>
