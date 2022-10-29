@@ -25,9 +25,7 @@
     <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   </div>
 </div>
-
 <br />
-
 <div>
 <table  align='center' width=100%>
   <tr>
