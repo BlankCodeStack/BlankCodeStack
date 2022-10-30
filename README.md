@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=지속적으로%20배우고%20%싶은20개발자&fontSize=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=지속적으로%20배우고%20%싶은%20개발자&fontSize=60&animation=twinkling" />
 
 <div>
   <img align='right' width=55% height=180px src="https://github-readme-stats.vercel.app/api?username=blankcodestack&theme=Defalt&hide_border=false&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
