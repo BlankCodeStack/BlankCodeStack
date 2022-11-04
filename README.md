@@ -26,15 +26,12 @@
   </div>
 </div>
 
-
-
-<p> Test </p>
-
-
-
 <br />
+
+
+
 <div>
-<table  align='center' width=100%>
+<table  align='' width=100%>
   <tr>
     <td align='left'>
     <h3>활동</h3>
