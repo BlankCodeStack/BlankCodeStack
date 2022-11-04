@@ -31,7 +31,7 @@
 
 
 <div>
-<table  align='' width=100%>
+<table  align='right' width=100%>
   <tr>
     <td align='left'>
     <h3>활동</h3>
